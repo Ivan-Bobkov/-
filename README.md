@@ -14,7 +14,7 @@ requests python-dotenv pytest selenium faker Автотесты настроен
 
 Для генерации временного адреса электронной почты использовался сайт: https://www.1secmail.com/
 
-Проект содержит две папки: pages и tests, а так же файлы: conftest.py и pytest.ini.
+Проект содержит две папки: pages и tests, а так же файл: conftest.py
 conftest.py - фикстура для работы с браузером.
 
 Папка pages содержит следующие файлы:
