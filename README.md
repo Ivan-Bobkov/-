@@ -16,7 +16,6 @@ requests python-dotenv pytest selenium faker Автотесты настроен
 
 Проект содержит две папки: pages и tests, а так же файлы: conftest.py и pytest.ini.
 conftest.py - фикстура для работы с браузером.
-pytest.ini - маркеры для параметризации.
 
 Папка pages содержит следующие файлы:
 registration_email.py - GET-запросы к виртуальному почтовому ящику для получения валидного email и кода для регистрации на сайте и восстановления пароля;
